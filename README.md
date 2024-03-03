@@ -1,4 +1,4 @@
-Hi 👋, I'm Cristiana Precup
+gHi 👋, I'm Cristiana Precup
 =================================
 
 A passionate computer engineering student at the National University of Science and Technology Politehnica of Bucharest (UNSTPB)
@@ -10,6 +10,6 @@ A passionate computer engineering student at the National University of Science 
 
 
 
-<a href="https://github.com/cristianaprecup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaprecup&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/cristianaprecup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaprecup&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171515&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
