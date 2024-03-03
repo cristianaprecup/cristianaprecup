@@ -16,4 +16,4 @@ A passionate computer engineering student at the National University of Science 
 <a href="https://github.com/cristianaprecup" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianaprecup&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=161b22&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" /></a>
 
 <p>Let's connect on <a href="https://www.linkedin.com/in/cristianaprecup/" target="_blank">LinkedIn</a>.</p>
-<p>I'm always looking for new technology to experiment with and methods to use my knowledge. I'm open to work with people and learn out new skills.</p>
+<p>I'm always looking for new technology to experiment with and methods to use my knowledge. I'm open to work with people and learn new skills.</p>
