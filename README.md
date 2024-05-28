@@ -1,5 +1,3 @@
-Hi 👋, I'm Cristiana Precup
-=================================
 
 A passionate computer engineering student at the National University of Science and Technology Politehnica of Bucharest (UNSTPB)
 <h3 align="left">Technologies and skills I've acquired during my journey:</h3>
